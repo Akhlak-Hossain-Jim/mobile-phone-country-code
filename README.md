@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Description](##description)
-- [Used Technologies](##techs)
-- [Contribution Guide](##contribution-guide)
+- [Description](#description)
+- [Used Technologies](#techs)
+- [Contribution Guide](#contribution-guide)
 
 ## Description
 
-This project is one of open source project of [Akhlak Hossain Jim](https://ahjim.com) with all the country code used for calling in mobile phones. No one out there is perfect and flawless so as [Akhlak Hossain Jim](https://ahjim.com), so please if there is any mistake please report it [here](https://github.com/Akhlak-Hossain-Jim/mobile-phone-country-code/issues/new) and wait get it fixed or contribute to solve it by your self (but before read the [guide](##contribution-guide)). Don't forget to leave a `star`. Happy Coding 🙂.
+This project is one of open source project of [Akhlak Hossain Jim](https://ahjim.com) with all the country code used for calling in mobile phones. No one out there is perfect and flawless so as [Akhlak Hossain Jim](https://ahjim.com), so please if there is any mistake please report it [here](https://github.com/Akhlak-Hossain-Jim/mobile-phone-country-code/issues/new) and wait get it fixed or contribute to solve it by your self (but before read the [guide](#contribution-guide)). Don't forget to leave a `star`. Happy Coding 🙂.
 
 ## Techs
 
