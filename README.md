@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Mobile Phone Country Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Description](##description)
+- [Used Technologies](##techs)
+- [Contribution Guide](##contribution-guide)
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+This project is one of open source project of [Akhlak Hossain Jim](https://ahjim.com) with all the country code used for calling in mobile phones. No one out there is perfect and flawless so as [Akhlak Hossain Jim](https://ahjim.com), so please if there is any mistake please report it [here](https://github.com/Akhlak-Hossain-Jim/mobile-phone-country-code/issues/new) and wait get it fixed or contribute to solve it by your self (but before read the [guide](##contribution-guide)). Don't forget to leave a `star`. Happy Coding 🙂.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Techs
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [React](https://reactjs.org/)
+- [Styled-components](https://styled-components.com/)
+- [React-icons](https://react-icons.github.io/react-icons/)
 
-### `npm test`
+## Contribution Guide
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Fork the repository
+2. Clone the forked repo to your local machine
+3. Run `npm i` or  `npm install` in the terminal for install all the dependencies
+4. Start the project  in your local server by running `nom start` in the terminal
+5. Do the necessary changes in the necessary files
+    - Write styles in [Styled-components](https://styled-components.com/)
+    - Others in appropriate languages
+6. Create commit for every file change and
+7. Please follow the sticker guide in the comment for every commit:
+    - 💅 for any style change
+    - 🦄 for any asset change
+    - 🛠️ for any code change other than style
+    - 📕 for any data change in `phoneCode.json` or `README.md` file
+    - 🏷️ for any addition new file/folder
+    - 🧩 for any package addition
+    - 🪲[one of the above] for any bug fix
+8. Raise a Pull request (don't forget to name appropriately and I would love the practice of describing changes in the comment section of the Pull Request) in the main [repository](https://github.com/Akhlak-Hossain-Jim/mobile-phone-country-code) for review.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+What's next? <br/>
+[Akhlak Hossain Jim](https://ahjim.com) will review your code, and if there is any issue with the code he will add a comment there you can solve those and/or if everything looks fine your Pull Request will be merged.
